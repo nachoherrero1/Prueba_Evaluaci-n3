@@ -1,5 +1,18 @@
 from hanoi import *
 from hanoi import colocar_discos1
+from hanoi import crear
+from hanoi import last
+from hanoi import matriz
+from hanoi import array
+from hanoi import l1
+from hanoi import l2
+from hanoi import l3
+from hanoi import actualizar_matriz
+from hanoi import inicializar_torres
+from hanoi import ganar
+from hanoi import mensaje
+from hanoi import mejor_tiempo
+
 
 def mover_torre(a, b):
   if a == 1 and b == 2:
